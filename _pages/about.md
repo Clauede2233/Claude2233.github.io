@@ -1,12 +1,29 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "个人简介"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+# 自我介绍
+  大家好，我是来自福州大学与计算机学院的一名程序猿，虽然转眼已经来到大三，但目前还在编程的新手村努力刷（被）级（虐）:broken_heart:。  
+  初出茅庐，希望能和大家友好相处:blush:  
+# 技能
+**C语言：** 第一次“Hello world”时的小白，仿佛看到了新大陆  
+**C++：** C语言的升级版，经验值+1   
+**Python：** 投入机器学习时的必修课，后悔没有早点遇见  
+# 项目经验
+#### srtp项目ing  
+#### 数学建模ing
+# 兴趣爱好
+**摄影：** 自从接触编程以来，我的头发越来越少，相机的灰却越积越多  
+**板绘：** 数位板绘画，绘圈知名大大wlop也是程序员出身哦  
+**游戏：** 沉迷魂类，苦难开始  
+# 专业展望
+目前正在接触有关计算机视觉的相关内容，尤其医学影像领域，希望将来能涉及多学科交叉领域，利用所长，多接触不同的新事物。
+# 祝语
+同志们，共勉吧！
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
