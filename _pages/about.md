@@ -11,7 +11,7 @@ redirect_from:
   初出茅庐，希望能和大家友好相处 :blush:   
 # 技能
 **C语言：** 第一次“Hello world”时的小白，仿佛看到了新大陆 :earth_africa:   
-**C++：** C语言的升级版，经验值+1 :cherry_blossom:    
+**C++：** C语言的升级版，经验值+1: cherry_blossom:    
 **Python：** 投入机器学习时的必修课，后悔没有早点遇见  
 # 项目经验
 #### srtp项目ing  
